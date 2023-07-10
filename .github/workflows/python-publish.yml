@@ -10,10 +10,10 @@ name: Python Package CD
 
 on:
   workflow_run:
-    workflows: ["Python package CI"]
+    workflows: ['Python package CI']
     types: [completed]
     branches:
-      -'*'
+      - '*'
 
 permissions:
   contents: read
