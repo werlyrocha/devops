@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "devops_trabalho"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
   { name="Carlos Werly", email="werlyrocha@gmail.com" },
 ]
